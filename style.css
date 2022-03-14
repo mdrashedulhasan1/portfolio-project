@@ -1,0 +1,36 @@
+.half-width{
+    width: 50%;
+    padding: 20px;
+}
+.half-width img{
+    width: 100%;
+    border-radius: 50px;
+}
+section{
+    display: flex;
+    margin: 0 50px;
+}
+.one-third{
+    width: 32%;
+}
+.one-third h3{
+    text-align: center;
+}
+.one-third img{
+    width: 100%;
+}
+#margin-left-right{
+    margin: 0 4%;
+}
+footer{
+    text-align: center;
+}
+button{
+    height: 40px;
+    background-color: seagreen;
+    border-radius: 10px;
+    color:white;
+    font-weight: 900px;
+    padding: 5px;
+    border: 2px solid lightseagreen;
+}
